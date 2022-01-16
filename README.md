@@ -10,5 +10,4 @@ I am  a Information Systems student at FCIS mansoura university
 - Facebook : https://www.facebook.com/profile.php?id=100074498270599
 - Linked In: https://www.linkedin.com/in/mohamed-khaled-a151421a9/
 - ⚡ Fun fact: football ,boxing
-- name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1.2
+
