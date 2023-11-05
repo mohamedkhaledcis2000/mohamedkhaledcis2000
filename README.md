@@ -1,5 +1,5 @@
 ### Hi i am mohamed khaled abdelaziz 👋
-I am  a Information Systems student at FCIS mansoura university
+I am  a Fullstack Developer 
 
 
 - 🔭 I’m a computers and information sciences graduated ...
