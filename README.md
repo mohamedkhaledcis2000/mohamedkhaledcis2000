@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Mohamed Khaled Abdelaziz 👋</h1>
-<h3 align="center">Full-Stack Developer · React · Django</h3>
+<h3 align="center">Teacher Assistant in FCIS - MU</h3>
+<h3 align="center">Full-Stack Developer · React · Django - Laravel</h3>
+<h3 align="center">Programming Instructor</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-khaled-a151421a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
